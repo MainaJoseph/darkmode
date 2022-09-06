@@ -9,4 +9,6 @@ Toggle to switch between light and darkmode
 
 ![mode2](https://user-images.githubusercontent.com/75726095/188607477-4a8d077b-fc8f-4931-8ea0-5f74579cebfd.png)
  
- Donload or clone the repository to enable to run thi code
+ Donload or clone the repository to enable to run this code
+ 
+ you can run it on your local server
